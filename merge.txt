@@ -1,4 +1,5 @@
 qqq
+<<<<<<< HEAD
 
 br1v1
 
@@ -7,3 +8,6 @@ br1v2
 br1v2
 
 br1v2
+=======
+master1
+>>>>>>> g
